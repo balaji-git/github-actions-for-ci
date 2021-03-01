@@ -1,6 +1,7 @@
 import Game from './game.js'
 
 let p1, p2
+
 while (!p1) {
   p1 = window.prompt('Enter player 1 name:')
 }
